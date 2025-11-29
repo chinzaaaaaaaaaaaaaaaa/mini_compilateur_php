@@ -1,0 +1,13 @@
+$a=13;
+$a;
+$a==$z;
+$a<=12;
+$i++;
+$j--;
+if($a==0){
+}else{
+}
+//chinza $A
+$A;
+chinza abdoudou
+
