@@ -1,0 +1,6 @@
+$age = 20@;
+$1nom = "Test";
+$nom = "Chinza;
+$char = 'A;  
+ab!d = 5; 
+$val = 12.3.4;
