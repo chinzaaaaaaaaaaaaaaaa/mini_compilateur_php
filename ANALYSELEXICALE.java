@@ -5,7 +5,7 @@ import java.io.BufferedReader;
 import java.io.FileReader;
 import java.util.Scanner;
 
-// ===================== TOKEN ======================
+
 class lexeme {
 
     String type;
@@ -24,7 +24,7 @@ class lexeme {
 
 public class ANALYSELEXICALE {
 
-    // ---------------- Automates ----------------
+    
     public static int Numid(char car) {
         if (car == '$') {
             return 0;
@@ -319,4 +319,5 @@ if (c == '\'') {
         }
     }
 }
+
 
